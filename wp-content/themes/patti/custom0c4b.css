@@ -111,9 +111,9 @@ html ul#mainnav li a:after {content: " ";position: absolute;bottom: 0;left: 50%;
     padding: 10px 0;
 }
 
-#wrapper {
+/*#wrapper {
     background-image: url(../../../assets/images/back-1.png) !important;
-}
+}*/
 
 .menu-fixer {
     display: none;
