@@ -74,7 +74,7 @@ echo json_encode($data, true);
 
 function send_admin_mail($mailContent){ 
 
-	$subject = "Marathi Literature Festival";
+	$subject = "Gujarati Literature Festival";
 	date_default_timezone_set('Asia/Calcutta');
 	
 	$mail = new PHPMailer();
@@ -88,7 +88,7 @@ function send_admin_mail($mailContent){
 
 	$mail->Username = "asmitahospitality1@gmail.com";
 	$mail->Password = "click@123";
-	$mail->setFrom('asmitahospitality1@gmail.com', 'Marathi Literature Festival');                                
+	$mail->setFrom('asmitahospitality1@gmail.com', 'Gujarati Literature Festival');                                
 
 	$mail->isHTML(true);
 	$mail->Subject = $subject;

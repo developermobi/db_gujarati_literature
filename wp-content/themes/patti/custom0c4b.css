@@ -23,7 +23,7 @@ ul#mainnav > li {
 }
 
 .infobar {
-    background: #c30c13;
+    background: #966032;
     color: #fff;
     padding: 5px 0;
         float: left;
@@ -41,7 +41,7 @@ ul#mainnav > li {
 
 body {
     background-image: url(../../../assets/images/back1-1.png) !important;
-    background-color: #fdf670 !important;
+    background-color: #faedc1 !important;
     background-size: 100% auto !Important;
         background-repeat: repeat-x !Important;
 }
@@ -145,7 +145,7 @@ html ul#mainnav li a:after {content: " ";position: absolute;bottom: 0;left: 50%;
     width: 100%;
     position: fixed;
     top: 0;
-    background-color: #c30c13;
+    background-color: #966032;
     color: #Fff;
         transition: all 0.5s, opacity 2s;
     opacity: 0;
@@ -241,7 +241,7 @@ iframe#twitter-widget-0 {
 }
 
 #socialrow {
-    background: #e4c515;
+    background: #c7ac5d;
     padding-top: 20px !Important;
 }
 
@@ -255,7 +255,7 @@ iframe#twitter-widget-0 {
     float: left;
     border: none;
     padding: 8px 20px 5px;
-    background-color: #e4c515;
+    background-color: #c7ac5d;
     color: #fff !Important;
     font-weight: bold;
         width: 100%;
@@ -315,7 +315,7 @@ background-image: url(../../../assets/images/speakercollage.jpg);
 }
 
 .page-title-subtitle h2 {
-    color: #c30c13;
+    color: #966032;
     font-weight: bold;
 }
 
@@ -360,7 +360,7 @@ span.eventheadline:after {
     padding: 10px;
     font-size: 13px;
     line-height: 15px;
-    background-color: rgba(202, 192, 11, 0.73);
+    background-color: rgba(193, 162, 57, 0.68);
     width: 100%;
     box-sizing: border-box;
     left: 0;
@@ -418,4 +418,15 @@ span.eventheadline:after {
     font-weight: bold;
     font-size: 1.2em;
     color: #555;
+}
+.gujarati-warning{
+    color: #FFF !important;
+    background-color: #966032 !important;
+}
+.abcd{
+    font-size: 42px;
+    color: #000;
+    padding: 10px;
+    display:inline-block;
+    background-color: rgba(150, 96, 50, 0.54);
 }
