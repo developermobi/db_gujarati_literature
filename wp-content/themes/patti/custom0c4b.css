@@ -430,3 +430,11 @@ span.eventheadline:after {
     display:inline-block;
     background-color: rgba(150, 96, 50, 0.54);
 }
+
+@media only screen and (max-width: 500px) {
+    .scrolled-header .stickhead {
+        max-height: 130px;
+        padding: 8px 0;
+        opacity: 1;
+    }
+}
