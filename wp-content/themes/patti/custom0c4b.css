@@ -448,3 +448,9 @@ span.eventheadline:after {
         right: -30px;    left: auto;
     }
 }
+
+@media only screen and (max-width: 768px) {
+    .lang{
+        display: none;
+    }
+}
