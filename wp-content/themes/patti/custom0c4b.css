@@ -423,6 +423,10 @@ span.eventheadline:after {
     color: #FFF !important;
     background-color: #966032 !important;
 }
+.insta-warning{
+    color: #FFF !important;
+    background-color: #125688 !important;
+}
 .abcd{
     font-size: 42px;
     color: #000;
